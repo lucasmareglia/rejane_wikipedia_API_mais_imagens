@@ -1,4 +1,5 @@
 # rejane_wikipedia_API_mais_imagens
 # pesquisa na API do Wikipédia mais imagens relacionadas as pesquisas
-# esta automação de rejane retorna uma fala do sumario do wikipédia sobre o assunto que quiser e abre uma janela com 
-# selenium no microsoft edge(podendo ser em outros navegadores compativeis) mostrando imagens relacionadas a pesquisa feita. 
+# esta comando de rejane retorna uma fala do sumario do wikipédia sobre o assunto que quiser, e abre uma janela com 
+# selenium no microsoft edge(podendo ser em outros navegadores compativeis) mostrando imagens relacionadas a pesquisa feita.
+# esta automação pode ser feita atraves dos comando de fala:'pesquisa','pesquisar','pesquise'.
